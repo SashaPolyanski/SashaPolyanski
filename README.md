@@ -27,4 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashapolyanski&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="sashapolyanski" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=sashapolyanski&show_icons=true&locale=en&theme=cobalt" alt="sashapolyanski" /></p>
 
 
-![snake gif](https://github.com/Sashapolyanski/Sashapolyanski/blob/output/github-contribution-grid-snake.gif)
+![snake svg](ttps://github.com/Sashapolyanski/Sashapolyanski/blob/output/github-contribution-grid-snake.svg)
