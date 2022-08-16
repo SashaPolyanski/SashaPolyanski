@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on [Beer-project](https://github.com/SashaPolyanski/Beer-project)
 
-- 🌱 I’m currently learning **Vue3**
+- 🌱 I’m currently learning **VUE 3**
 
 - 👯 I’m looking to collaborate on [UniBlog](https://github.com/UniblogOfficial/uniblog-client)
 
